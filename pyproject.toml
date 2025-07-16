@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "youtube-downloader"
+version = "0.1.0"
+authors = [
+  { name="Victor Welter", email="victorwelter2003@gmail.com" },
+]
+description = "A YouTube video downloader with a graphical interface."
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.setuptools.packages.find]
+where = ["src"]

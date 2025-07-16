@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/youtube-downloader/__init__.py
+src/youtube-downloader/downloader.py
+src/youtube-downloader/gui.py
+src/youtube-downloader/main.py
+src/youtube-downloader/utils.py
+src/youtube_downloader.egg-info/PKG-INFO
+src/youtube_downloader.egg-info/SOURCES.txt
+src/youtube_downloader.egg-info/dependency_links.txt
+src/youtube_downloader.egg-info/top_level.txt

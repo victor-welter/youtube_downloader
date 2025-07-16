@@ -1,0 +1,9 @@
+# Ignorar pasta de ambiente virtual
+.venv/
+venv/
+
+# Ignorar arquivos de ambiente (se você decidir usá-lo também)
+.env
+
+# Ignorar pastas de cache do Python
+__pycache__/
