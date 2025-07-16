@@ -24,7 +24,7 @@ A simple desktop application to download YouTube videos in high quality.
 
 1.  **Clone the project:**
     ```bash
-    git clone [https://github.com/your-username/youtube-downloader.git](https://github.com/your-username/youtube-downloader.git)
+    git clone [https://github.com/victor-welter/youtube_downloader](https://github.com/victor-welter/youtube_downloader.git)
     cd youtube-downloader
     ```
 
